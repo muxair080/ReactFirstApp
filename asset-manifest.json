@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactFirstApp/static/css/main.a617e044.chunk.css",
+    "main.js": "/ReactFirstApp/static/js/main.131a071e.chunk.js",
+    "main.js.map": "/ReactFirstApp/static/js/main.131a071e.chunk.js.map",
+    "runtime-main.js": "/ReactFirstApp/static/js/runtime-main.e0267474.js",
+    "runtime-main.js.map": "/ReactFirstApp/static/js/runtime-main.e0267474.js.map",
+    "static/css/2.f3d634d7.chunk.css": "/ReactFirstApp/static/css/2.f3d634d7.chunk.css",
+    "static/js/2.d7b9e955.chunk.js": "/ReactFirstApp/static/js/2.d7b9e955.chunk.js",
+    "static/js/2.d7b9e955.chunk.js.map": "/ReactFirstApp/static/js/2.d7b9e955.chunk.js.map",
+    "static/js/3.a3d5f47d.chunk.js": "/ReactFirstApp/static/js/3.a3d5f47d.chunk.js",
+    "static/js/3.a3d5f47d.chunk.js.map": "/ReactFirstApp/static/js/3.a3d5f47d.chunk.js.map",
+    "index.html": "/ReactFirstApp/index.html",
+    "static/css/2.f3d634d7.chunk.css.map": "/ReactFirstApp/static/css/2.f3d634d7.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/ReactFirstApp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d7b9e955.chunk.js.LICENSE.txt": "/ReactFirstApp/static/js/2.d7b9e955.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0267474.js",
+    "static/css/2.f3d634d7.chunk.css",
+    "static/js/2.d7b9e955.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.131a071e.chunk.js"
+  ]
+}
